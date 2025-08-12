@@ -1,22 +1,20 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, My Self Hem Patel.
 
 Welcome to my GitHub profile! 🚀  
-I’m passionate about **[Web development, Cybersecurity]** and love exploring new technologies.
+I’m passionate about [Web development, Cybersecurity] and love exploring new technologies.
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: [Project/Skill]
-- 🌱 Learning: **[Technology/Tool]**
-- 💬 Ask me about: **[Topics you know well]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 Currently working on: [Movie Reservation System (Spring Boot]
+- 🌱 Learning: [Spring Boot, MongoDB,Java]
 
 ---
 
 ## 📌 Skills & Tools
-- Programming: `Python` | `Java` | `JavaScript`
-- Frameworks: `Spring Boot` | `J2EE` | `MongoDB` | `MongoDB`
-- Tools: `Git` | `Docker` | `VS Code`
+- Programming: `Python` | `Java` | `Bash`
+- Frameworks: `Spring Boot` | `J2EE` | `MongoDB` | `JSP`
+- Tools: `Git` | `VS Code`
 
 ---
 
