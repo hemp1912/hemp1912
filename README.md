@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**hemp1912/hemp1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m passionate about **[Web development, Cybersecurity]** and love exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working on: [Project/Skill]
+- 🌱 Learning: **[Technology/Tool]**
+- 💬 Ask me about: **[Topics you know well]**
+- ⚡ Fun fact: **[Something interesting about you]**
+
+---
+
+## 📌 Skills & Tools
+- Programming: `Python` | `Java` | `JavaScript`
+- Frameworks: `Spring Boot` | `J2EE` | `MongoDB` | `MongoDB`
+- Tools: `Git` | `Docker` | `VS Code`
+
+---
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:hemp1912@gamil.com)
