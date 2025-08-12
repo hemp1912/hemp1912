@@ -6,7 +6,7 @@ I’m passionate about [Web development, Cybersecurity] and love exploring new t
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: [Movie Reservation System (Spring Boot]
+- 🔭 Currently working on: [Movie Reservation System (Spring Boot)]
 - 🌱 Learning: [Spring Boot, MongoDB,Java]
 
 ---
